@@ -1,0 +1,40 @@
+html{
+	background: url("../images/bg.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+body{
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+#navBar{
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+	background-color: grey;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 100%
+}
+
+#navBar ul{
+	list-style-type: none;
+	font-size: 18px;
+	display: inline;
+	margin: 0;
+	padding: 0;
+}
+
+#navBar ul li{
+	display: inline;
+	width: 60px;
+}
+
+#navBar ul li a{
+	color: powderblue;
+	text-align: center;
+	padding: 15px 15px;
+	text-decoration: none;
+}
