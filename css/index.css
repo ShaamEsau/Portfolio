@@ -13,7 +13,7 @@ body{
 #navBar{
 	border-top: 1px solid white;
 	border-bottom: 1px solid white;
-	background-color: blue;
+	background-image: linear-gradient(to bottom right,#035096, cyan); 
 	padding-top: 10px;
 	padding-bottom: 10px;
 	width: 100%
@@ -59,4 +59,10 @@ body{
 	height: 300px;
 	padding-left: 50px;
 	padding-right: 50px;
+}
+
+#navSel{
+	padding-right: 50px;
+	padding-left: 50px;
+	border-right: 1px solid white;
 }
