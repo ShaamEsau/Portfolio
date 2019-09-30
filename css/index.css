@@ -33,19 +33,30 @@ body{
 	float: left;
 	padding-left: 100px;
 	padding-right: 200px;
+	display: inline-block;
 }
 
 #skillsBox{
-	float: left;
+	display: inline-block;
 	text-align: center;
+	padding-right: 150px;
+	padding-left: 150px;
 }
 
 #projects{
-	padding-top: 1300px;
+	padding-left: 150px;
+	text-align: center;
 }
 
 #codeLang{
 	width: 200px;
 	height: 200px;
 	padding: 100px;
+}
+
+#projectPrevs{
+	width: 300px;
+	height: 300px;
+	padding-left: 50px;
+	padding-right: 50px;
 }
