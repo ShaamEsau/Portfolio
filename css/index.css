@@ -10,6 +10,11 @@ body{
 	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
+#about{
+	padding-top: 500px;
+	text-align: center;
+}
+
 #navBar{
 	border-top: 1px solid white;
 	border-bottom: 1px solid white;

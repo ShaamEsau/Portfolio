@@ -19,6 +19,11 @@ body{
 	width: 100%
 }
 
+#about{
+	float: left;
+	text-align: center;
+}
+
 #navBar a{
 	text-decoration: none;
 	color: white;
